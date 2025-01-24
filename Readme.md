@@ -11,3 +11,5 @@ W każdym zadaniu obok kodu po znacznikach % starałem się tłumaczyć co robi�
 
 Z wyrazami szacunku,
 Szymon Banach.
+Grupa 1
+24.01.2025
