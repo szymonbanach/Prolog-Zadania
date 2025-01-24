@@ -8,7 +8,7 @@ I to chyba tyle, jeżeli jakieś przeoczyłem najmocniej przepraszam.
 W każdym zadaniu obok kodu po znacznikach % starałem się tłumaczyć co robię, jak rozumiem kod.
 Jako że dosyć obszernie opisywałem działanie kodu, zastosowałem alternatywne rozwiązania dla zadań 2, 4, oraz rozbudowałem poszczególne reguły o funkcje takie jak write, aspiruję do najwyższej oceny czyli 5.
 
-Życzę przyjemnego oceniania, i mam nadzieję że bez częstego punktowania błędów.
+Życzę przyjemnego oceniania, i mam nadzieję że nie będzie potrzeby punktowania błędów.
 
 Z wyrazami szacunku,
 Szymon Banach.
