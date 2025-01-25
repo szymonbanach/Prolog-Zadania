@@ -1,4 +1,4 @@
-# Prolog-Zadania
+# Prolog-Zadania Grupa 1 - Piątek 11:30
 W repozytorium znajdują się rozwiązania zadań. Dwa z nich są dodane również w formacie "pl", by móc je otworzyć w SWI Prolog. W tych zadaniach są użyte konstrukcje które blokuje SWISH, dlatego docelowo są wykonane dla otworzenia w SWI Prolog.
 W niektórych zadaniach używam konstrukcji które nie zostały wymienione przez Pana doktora w dokumentacji. Są to:
   1. min_list - wybiera najmniejszą wartość z listy
